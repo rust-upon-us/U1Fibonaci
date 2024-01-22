@@ -1,10 +1,9 @@
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
-import java.util.Arrays;
 
 import static org.junit.jupiter.api.Assertions.assertNull;
-import static org.junit.jupiter.api.Assertions.assertTrue;
+import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 
 public class TestFibonaci {
     @Test
@@ -18,14 +17,14 @@ public class TestFibonaci {
     void testFibbonaci1(){
         int[] expected = {0};
         int[] returned = App.fibonaciCalculator(1);
-        assertTrue(Arrays.equals(expected,returned));
+        assertArrayEquals(expected,returned);
     }
     @Test
     @DisplayName("Fibonaci Test 5")
     void testFibbonaci5(){
         int[] expected = {0,1,1,2,3};
         int[] returned = App.fibonaciCalculator(5);
-        assertTrue(Arrays.equals(expected,returned));
+        assertArrayEquals(expected,returned);
     }
 
 

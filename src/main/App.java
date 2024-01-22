@@ -6,8 +6,6 @@ public class App
     public static void main(String[] args) {
         // Create a boolean variable to handle the loop's execution
         boolean stop = false;
-        // Create an int variable to keep track of the current iteration
-        int loop = 0;
         // Create an array object to be used inside the do-while loop
         int[] fibonaci = null;
         // Create an object of the class scanner to capture the parameter required to execute the application
