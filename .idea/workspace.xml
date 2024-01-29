@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="59e6fbd6-8394-43ae-8328-7be2caaaaca8" name="Changes" comment="First implementation">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/TestFibonaci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestFibonaci.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +23,24 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "assignee": "rust-upon-us"
+    }
+  ],
+  "lastFilter": {
+    "assignee": "rust-upon-us"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="c39ecbb7-4456-4888-a4cd-b23005b36a1b" />
+        <option name="url" value="https://github.com/rust-upon-us/U1Fibonaci.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -110,7 +128,7 @@
       <option name="presentableId" value="Default" />
       <updated>1705951841977</updated>
       <workItem from="1705951842997" duration="4024000" />
-      <workItem from="1706538327193" duration="846000" />
+      <workItem from="1706538327193" duration="1775000" />
     </task>
     <task id="LOCAL-00001" summary="First implementation">
       <option name="closed" value="true" />
@@ -128,11 +146,30 @@
       <option name="project" value="LOCAL" />
       <updated>1705955014168</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="First implementation">
+      <option name="closed" value="true" />
+      <created>1706539263346</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706539263346</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
