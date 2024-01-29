@@ -4,6 +4,7 @@ import java.util.Scanner;
 public class App 
 {
     public static void main(String[] args) {
+        // Test
         // Create a boolean variable to handle the loop's execution
         boolean stop = false;
         // Create an array object to be used inside the do-while loop
